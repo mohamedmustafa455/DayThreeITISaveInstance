@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DayThreeITISaveInstance</string>
+    <string name="btn_counter">increas Counter</string>
+    <string name="btn_dec_count">decrease counter</string>
+</resources>
